@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Black/OneDrive/Documents/NetBeansProjects/thegioianvat2/src/dao/TaiKhoanDAO.java</file>
+            <file>file:/C:/Users/Black/OneDrive/Documents/NetBeansProjects/thegioianvat2/src/util/Validator.java</file>
+            <file>file:/C:/Users/Black/OneDrive/Documents/NetBeansProjects/thegioianvat2/src/dao/ThanhToanDAO.java</file>
+            <file>file:/C:/Users/Black/OneDrive/Documents/NetBeansProjects/thegioianvat2/src/dao/MonAnDAO.java</file>
+            <file>file:/C:/Users/Black/OneDrive/Documents/NetBeansProjects/thegioianvat2/src/ui/dialogs/TaiKhoanDialog.java</file>
+            <file>file:/C:/Users/Black/OneDrive/Documents/NetBeansProjects/thegioianvat2/src/ui/panels/QuanLyDanhMucPanel.java</file>
+            <file>file:/C:/Users/Black/OneDrive/Documents/NetBeansProjects/thegioianvat2/src/controller/ThongKeController.java</file>
+            <file>file:/C:/Users/Black/OneDrive/Documents/NetBeansProjects/thegioianvat2/src/ui/panels/QuanLyMonAnPanel.java</file>
+            <file>file:/C:/Users/Black/OneDrive/Documents/NetBeansProjects/thegioianvat2/src/ui/dialogs/ThemKhachHangDialog.java</file>
+            <file>file:/C:/Users/Black/OneDrive/Documents/NetBeansProjects/thegioianvat2/src/dao/DanhMucDAO.java</file>
+            <file>file:/C:/Users/Black/OneDrive/Documents/NetBeansProjects/thegioianvat2/src/ui/dialogs/ThanhToanDialog.java</file>
+            <file>file:/C:/Users/Black/OneDrive/Documents/NetBeansProjects/thegioianvat2/src/ui/LoginFrame.java</file>
+            <file>file:/C:/Users/Black/OneDrive/Documents/NetBeansProjects/thegioianvat2/src/model/DonHang.java</file>
+            <file>file:/C:/Users/Black/OneDrive/Documents/NetBeansProjects/thegioianvat2/src/ui/MainFrame.java</file>
+            <file>file:/C:/Users/Black/OneDrive/Documents/NetBeansProjects/thegioianvat2/src/dao/DonHangDAO.java</file>
+            <file>file:/C:/Users/Black/OneDrive/Documents/NetBeansProjects/thegioianvat2/src/util/FormatUtil.java</file>
+            <file>file:/C:/Users/Black/OneDrive/Documents/NetBeansProjects/thegioianvat2/src/model/TaiKhoan.java</file>
+            <file>file:/C:/Users/Black/OneDrive/Documents/NetBeansProjects/thegioianvat2/src/ui/panels/ThongKePanel.java</file>
+            <file>file:/C:/Users/Black/OneDrive/Documents/NetBeansProjects/thegioianvat2/src/controller/DonHangController.java</file>
+            <file>file:/C:/Users/Black/OneDrive/Documents/NetBeansProjects/thegioianvat2/src/ui/panels/QuanLyDonHangPanel.java</file>
+            <file>file:/C:/Users/Black/OneDrive/Documents/NetBeansProjects/thegioianvat2/src/ui/dialogs/ChiTietDonHangDialog.java</file>
+            <file>file:/C:/Users/Black/OneDrive/Documents/NetBeansProjects/thegioianvat2/src/ui/dialogs/MonAnDialog.java</file>
+            <file>file:/C:/Users/Black/OneDrive/Documents/NetBeansProjects/thegioianvat2/src/dao/KhachHangDAO.java</file>
+            <file>file:/C:/Users/Black/OneDrive/Documents/NetBeansProjects/thegioianvat2/src/ui/dialogs/DonHangDialog.java</file>
+            <file>file:/C:/Users/Black/OneDrive/Documents/NetBeansProjects/thegioianvat2/src/model/KhachHang.java</file>
+            <file>file:/C:/Users/Black/OneDrive/Documents/NetBeansProjects/thegioianvat2/src/dao/ChiTietDonHangDAO.java</file>
+            <file>file:/C:/Users/Black/OneDrive/Documents/NetBeansProjects/thegioianvat2/src/ui/panels/QuanLyKhachHangPanel.java</file>
+            <file>file:/C:/Users/Black/OneDrive/Documents/NetBeansProjects/thegioianvat2/src/ui/panels/TaiKhoanPanel.java</file>
+            <file>file:/C:/Users/Black/OneDrive/Documents/NetBeansProjects/thegioianvat2/src/model/DanhMuc.java</file>
+            <file>file:/C:/Users/Black/OneDrive/Documents/NetBeansProjects/thegioianvat2/src/util/DialogUtil.java</file>
+        </group>
+    </open-files>
+</project-private>
